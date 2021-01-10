@@ -1,0 +1,23 @@
+{
+  "name": "rfr-21-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crew-guy/rfr-21-dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crew-guy/rfr-21-dashboard/issues"
+  },
+  "homepage": "https://github.com/crew-guy/rfr-21-dashboard#readme",
+  "dependencies": {
+    "config": "^3.3.3"
+  }
+}
