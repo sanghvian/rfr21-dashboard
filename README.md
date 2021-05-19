@@ -11,8 +11,6 @@ The database, is a highly scalable, cost effective warehouse to process, maintai
 
 This project has all the abilities of a high powered web application - authentication, reactive UI, effective state management, simple API server setup, database integrations and complex SQL queries to store, retrieve and process data, error handling, logging and monitoring and redundant production grade deployment and hosting with a custom domain in the cloud.
 
-Check out the live project running at https://dashboard.ankitsanghvi.live
-
-Run live project at [Link](https://dashboard.ankitsanghvi.live)
+Check out the live project running at [Link](https://dashboard.ankitsanghvi.live)
 <br>
 See detailed youtube video at [Link](https://youtu.be/0DqfXxiyxNo)
