@@ -1,6 +1,8 @@
 # rfr21-dashboard
 Dashboard, a project by Raftar Formula Racing is an interactive data visualization software.
 
+![Group 18](https://user-images.githubusercontent.com/69717009/118765463-be2b9880-b898-11eb-916d-937d8bd2cfac.png)
+
 It presents versatile, powerful analytics dashboard displaying a plethora of graphical interpretations of complex data for examination, optimization and decision making with respect to any iOT device's sensors data, particularly EVs
 
 I built robust data processing pipeline, as shown below, for streaming the data right from IoT sensors to a GUI with proper storage, hosting and querying capabilities. I handled everything on the frontend, backend and database side whilst a friend handled all the iOT streaming and processing part
